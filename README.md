@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Curtis Collins 
 - 👀 I’m interested in ... cyber security 
 - 🌱 I’m currently learning ... computer science 
-- 💞️ I’m looking to collaborate on ...
+-  I’m looking to collaborate on ...
 - 📫 How to reach me ... collinshydra69@gmail.com
 
 <!---
