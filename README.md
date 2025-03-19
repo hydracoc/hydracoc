@@ -1,7 +1,7 @@
 # Hello, I'm Collins Curtis
 <a href="https://www.linkedin.com/in/collins-curtis-b29265240/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am an undergraduate with a profound interest in technology and a dedication to solving complex problems.
+As an aspiring Cybersecurity Analyst with a recent Computer Science degree specializing in Network and Security, I bring a thorough understanding of security operations and threat detection methodologies. My technical foundation is complemented by hands-on experience implementing integrated security solutions like Wazuh, TheHive, and Shuffle. I am passionate about identifying security vulnerabilities, analyzing attack patterns, and developing automated response workflows to strengthen organizational security postures. Committed to continuous learning in this evolving field, I aim to contribute effectively to SOC environments through both technical expertise and analytical problem-solving abilities.
 
 ## Objective
 
@@ -12,7 +12,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/hydracoc/SOC-Analyst-Project-with-Azure-Sentinel">Detection Lab</a>|
+| SIEM Implementation and Log Analysis with Sentinel    | <a href="https://github.com/hydracoc/SOC-Analyst-Project-with-Azure-Sentinel">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation(SOAR) with Shuffle, Wazuh, TheHive      | <a href="https://github.com/hydracoc/SOAR-Project-with-Wazuh-Shuffle-and-TheHive">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
@@ -46,8 +46,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- <a href="https://github.com/hydracoc/SOAR-Project-with-Wazuh-Shuffle-and-TheHive">SOC Automation Project</a>
+- <a href="https://github.com/hydracoc/SOC-Analyst-Project-with-Azure-Sentinel">SIEM Implementation and Log Analysis with Sentinel</a>
 
 <!---
 hydracoc/hydracoc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
