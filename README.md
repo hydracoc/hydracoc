@@ -13,7 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis with Sentinel    | <a href="https://github.com/hydracoc/SOC-Analyst-Project-with-Azure-Sentinel">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation(SOAR) with Shuffle, Wazuh, TheHive      | <a href="https://github.com/hydracoc/SOAR-Project-with-Wazuh-Shuffle-and-TheHive">SOC Automation Lab</a>|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
